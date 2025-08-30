@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SHREEDHAR20
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in programming and IT.
 - 🌱 I’m currently learning Python and Web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mshreedhar6@gmail.com
