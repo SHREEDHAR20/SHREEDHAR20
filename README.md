@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHREEDHAR20
 - 👀 I’m interested in programming and IT.
-- 🌱 I’m currently learning Python and Web development 
+- 🌱 I’m currently learning Python and data anaytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mshreedhar6@gmail.com
 - 😄 Pronouns: HE/HIM
